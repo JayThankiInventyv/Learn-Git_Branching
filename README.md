@@ -72,13 +72,4 @@
 
 ![alt text]({96FB24E7-68B8-435B-B975-70FE0D097DBA}.png)
 
-# Level 4
-
-## Task 1
-
-* git checkout main
-* git cherry-pick C4
-
-![alt text]({72CB2BCD-6448-4782-B110-A845279B8A14}.png)
-
 
